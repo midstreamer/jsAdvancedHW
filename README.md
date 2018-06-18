@@ -1,0 +1,2 @@
+# jsAdvancedHW
+constructor hangman homework
